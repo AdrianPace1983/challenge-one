@@ -35,6 +35,7 @@ function desencriptar() {
     document.getElementById("texto").style.display = "none";
     document.getElementById("texto2").innerHTML = txtCifrado;
     document.getElementById("copiar").style.display = "block";
+    document.getElementById("copiar").style.display = "inherit";
 }
 
 function copy() {

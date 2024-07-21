@@ -8,34 +8,30 @@ body{
     width: 960px ;
     height: 650px;
     padding: 5px;
-    background-color: blue;
-}
+    }
 .logo{
     width: 100%;
     float: left;
-    background-color: yellow;
-}
+    }
 .left{
     width: 70%;
     float: left;
     height: 70%;
     border-radius: 24px;
-    background-color: red;
-}
+ }
 .right{
     float: right;
     border-radius: 24px;
     width: 30%;
     height: auto;
-    background-color: orange;
-}
+    background-color: white;
+    }
 .left-button{
     float: left;
     width: 70%;
     height: auto;
     border-radius: 24px;
-    background-color: pink;
-}
+    }
 .logoimg{
     margin-top: 1%;
     float: inherit;
@@ -64,7 +60,7 @@ body{
     margin-left: 2%;
  }
  #texto{
-    margin-left: 7%;
+    margin-left: 8%;
     margin-right: 5%;
  }
  #texto2{
