@@ -19,4 +19,6 @@ La aplicación debe funcionar únicamente con letras minúsculas.
 No se deben utilizar letras con acentos ni caracteres especiales.
 Debe ser posible convertir una palabra en su versión encriptada y que  también  se pueda desencriptar una palabra encriptada para obtener su versión original. 
 
-Además de los requisitos mencionados, se sugiere como un extra la incorporación de un botón que permita copiar el texto encriptado o desencriptado al portapapeles
+Además de los requisitos mencionados, se sugiere como un extra la incorporación de un botón que permita copiar el texto encriptado o desencriptado al portapapeles.
+![image](https://github.com/user-attachments/assets/6697e0ed-60b8-40d4-94f7-752f60b354e0)
+
